@@ -8,8 +8,8 @@ gothamads.com, 492, DIRECT, d9c86e5dec870222
 OmniJay.com, 114, DIRECT
 gothamads.com, 792, RESELLER, d9c86e5dec870222
 admixer.co.kr, 1311, RESELLER
-lunamedia.io, 390, RESELLER
-lunamedia.io, 440, RESELLER
+lunamedia.io, a857a9924bfb151ea6060cb865670e0f, DIRECT, 524ecb396915caaf
+google.com, pub-4836542095728076, RESELLER, f08c47fec0942fa0
 mobcomedia.com, 984756, DIRECT
 revlift.io, 427, RESELLER
 revlift.io, 429, RESELLER
@@ -54,16 +54,6 @@ Pubmatic.com, 156517, RESELLER, 5d62403b186f2ace
 Sabio.us, 100032, RESELLER, 96ed93aaa9795702
 openx.com, 540543195, RESELLER, 6a698e2ec38604c6
 Contextweb.com, 561849, RESELLER, 89ff185a4c4e857c
-ad-volt.com, 14725, RESELLER
-onetag.com, 612e50f4183c9b2, DIRECT
-vyadd.com, 14313, DIRECT
-advenuemedia, 386, RESELLER
-openx.com, 540011801, RESELLER, 6a698e2ec38604c6
-meitu.com, 188, DIRECT
-cmcm.com, 127, DIRECT
-appnexus.com, 8217, RESELLER, f5ab79cb980f11d1
-adcolony.com, f858ba060bce51ad, RESELLER, 1ad675c9de6b5176
-pubmatic.com, 157654, RESELLER, 5d62403b186f2ace
 improvedigital.com, 1057, RESELLER
 onetag.com, 5e1ebfccf66d7c0, DIRECT
 advertising.com, 28246, RESELLER
